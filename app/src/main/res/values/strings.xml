@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tran IT First Project</string>
+
+    <string name="hello_world">Hey, this is my first application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_layout2">Layout2Activity</string>
+</resources>
